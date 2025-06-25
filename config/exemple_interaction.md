@@ -1,0 +1,1 @@
+Contenu placeholder pour exemple_interaction.md

@@ -1,0 +1,17 @@
+# Données sensibles
+.env
+*.json
+*.pkl
+*.faiss
+*.log
+*.lock
+*.pem
+*.sqlite3
+conversations_extraites.txt
+conversations_*.txt
+
+# Règles internes
+rules.system.yaml
+user_maxime.yaml
+persona_maxime.txt
+profil_operateur_maxime.yaml
