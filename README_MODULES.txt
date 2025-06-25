@@ -1,0 +1,1 @@
+Contenu placeholder pour README_MODULES.txt
