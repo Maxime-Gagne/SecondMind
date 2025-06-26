@@ -1,5 +1,3 @@
-# 🧠 SecondMind
-
 # 🧠 SecondMind — Un système cognitif personnalisé
 
 SecondMind est un projet né d’un constat : les grands modèles d’IA ne sont ni alignés, ni mémoriels, ni personnels.  
@@ -49,6 +47,21 @@ Mais surtout : documenter une approche **d’alignement réel**, pour inspirer d
 
 Maxime Gagné – architecte d’interaction IA, passionné par les règles, la logique, et l’intelligence vraie.
 
+🧠 Rôle
+
+Je ne suis pas seulement l’auteur de ce système.
+
+Je conçois SecondMind comme un **système cognitif aligné**,  
+et j'assume pour cela un rôle singulier :  
+**Cognitive Alignment Architect** —  
+un métier que j’ai défini par nécessité : structurer un agent IA qui pense avec moi,  
+pas seulement pour moi.
+
+Ce dépôt incarne cette recherche :  
+- aligner un agent avec ses règles internes,  
+- observer ses dérives,  
+- corriger ses actions sans supervision extérieure,  
+- et maintenir une mémoire durable, explicite, non-hallucinatoire.
 ---
 # 🧠 SYSTÈME SECOND·MIND — README GÉNÉRAL
 
